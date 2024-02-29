@@ -24,8 +24,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0,
-        "pitch": 0,
+        "yaw": 1.6424078278827574,
+        "pitch": 0.13269924788355958,
         "fov": 1.3635993899637084
       },
       "linkHotspots": [
@@ -68,9 +68,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 0.0062143818308229015,
+        "pitch": 0.1620049806357251,
+        "fov": 1.3635993899637084
       },
       "linkHotspots": [
         {
@@ -112,9 +112,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 2.389404838737251,
+        "pitch": 0.2807857909453979,
+        "fov": 1.3635993899637084
       },
       "linkHotspots": [
         {
@@ -130,8 +130,8 @@ var APP_DATA = {
           "target": "1-korytarz---wieszak"
         },
         {
-          "yaw": 1.4973253055894125,
-          "pitch": 0.3602006988200088,
+          "yaw": 1.5344456881356887,
+          "pitch": 0.3131731953272663,
           "rotation": 0,
           "target": "4-biuro"
         },
@@ -186,9 +186,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.5913301716629809,
+        "pitch": 0.30985423708609083,
+        "fov": 1.3635993899637084
       },
       "linkHotspots": [
         {
@@ -242,9 +242,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.3487011115529324,
+        "pitch": 0.1499407799501018,
+        "fov": 1.3635993899637084
       },
       "linkHotspots": [
         {
@@ -280,9 +280,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": 1.4598910485832945,
+        "pitch": 0.2894460742223224,
+        "fov": 1.3635993899637084
       },
       "linkHotspots": [
         {
@@ -453,9 +453,9 @@ var APP_DATA = {
   ],
   "name": "Świerkowe Osiedle (Parter)",
   "settings": {
-    "mouseViewMode": "drag",
+    "mouseViewMode": "qtvr",
     "autorotateEnabled": true,
     "fullscreenButton": true,
-    "viewControlButtons": false
+    "viewControlButtons": true
   }
 };
